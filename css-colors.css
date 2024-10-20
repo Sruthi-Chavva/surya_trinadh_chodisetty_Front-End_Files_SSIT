@@ -1,0 +1,34 @@
+*{
+    background-color:aliceblue;
+}
+.heading h1{
+    background-color:chartreuse;
+    color: slateblue;
+    padding: 40px;
+    width: 400px;
+    height: 80px;
+    box-shadow: 8px 9px 6px rgb(30,34,36);
+}
+.color-name {
+    color: goldenrod;
+}
+.hex {
+    color: blueviolet;
+}
+.rgb h2 {
+    color:rgb(34,135,46);
+    background-color: rgb(60,10,78);
+    width: 2000px;
+    height: 40px;
+}
+.hex {
+    color:#0589;
+}
+.hsl h1{
+    color:hsl(187,65,37);
+    background-color: red;
+    padding: 20px;
+    width: 5000px;
+    height: 30px;
+}
+  

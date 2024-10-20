@@ -1,0 +1,13 @@
+.border-prop{
+    border: 2px solid blue;
+}
+
+.border-prop-1{
+    margin-top: 50px;
+    border: 3px dotted pink;
+}
+
+.border-prop-2{
+    margin-top: 30px;
+    border: 2px dashed #b007;
+}

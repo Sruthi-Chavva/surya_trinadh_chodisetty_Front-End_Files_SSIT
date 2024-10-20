@@ -1,0 +1,6 @@
+.box-model a{
+    width: 80px;
+    height: 70px;
+    margin: 2px;
+    border: 7px solid black;
+} 
